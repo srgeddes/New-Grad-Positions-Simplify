@@ -18,7 +18,7 @@ jobs:
       - name: Add upstream and fetch
         run: |
           git remote remove upstream || true
-          git remote add upstream https://github.com/USER/REPO.git
+          git remote add upstream https://github.com/SimplifyJobs/New-Grad-Positions
           git fetch upstream
 
       - name: Generate & dump diff
