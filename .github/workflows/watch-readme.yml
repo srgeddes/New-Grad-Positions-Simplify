@@ -41,7 +41,10 @@ jobs:
           subjects=''
           bodies=''
           while IFS='|' read -r _ company role _ link_html _; do
-            company=$(echo "$company" | xargs)
+            company=$(echo "$company" \
+              | sed -E 's/\[([^]]+)\]\([^)]*\)/\1/g' \
+              | sed 's/\*\*//g' \
+              | xargs)
             role=$(echo "$role" | xargs)
             url=$(echo "$link_html" | grep -oP 'href="\K[^"]+' || echo '')
             if [ -n "$subjects" ]; then
@@ -52,6 +55,7 @@ jobs:
               bodies="$company - $role: $url"
             fi
           done < added.txt
+
 
           echo "email_subject=$subjects" >> $GITHUB_OUTPUT
           echo "email_body=$bodies" >> $GITHUB_OUTPUT
