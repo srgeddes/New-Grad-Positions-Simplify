@@ -1,119 +1,5 @@
 [
     {
-        "date_updated": 1730944366,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer",
-        "company_name": "Google",
-        "title": "User Experience Designer",
-        "locations": [
-            "Mountain View, CA",
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "seanlewertow",
-        "id": "28b36095-22fd-4c60-9022-e08b74fa67b2",
-        "date_posted": 1720489300,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1720489342,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
-        "company_name": "Optiver",
-        "title": "Graduate Software Engineer",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "angelz913",
-        "id": "e4c5fe5b-c340-436b-901a-4be8d2936111",
-        "date_posted": 1720489342,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vermont Information Processing",
-        "id": "48b3be5d-b068-4357-a76c-66d211d998bd",
-        "title": "Item Catalog Data Specialist",
-        "active": false,
-        "date_updated": 1720538644,
-        "date_posted": 1720538644,
-        "url": "https://boards.greenhouse.io/vipvermontinformationprocessing/jobs/4020854007",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HealthJoy",
-        "id": "9ada8f5d-98c1-411b-9efd-e03f362882a6",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1720538413,
-        "date_posted": 1720538413,
-        "url": "https://boards.greenhouse.io/healthjoy/jobs/7487584002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/HealthJoy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1720558816,
-        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
-        "company_name": "Old Mission Capital",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Chicago, IL, USA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "1b0eb1c1-2d61-4e8a-bef5-58ad7e362554",
-        "date_posted": 1720558816,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1730944347,
-        "url": "https://careers.sig.com/job/8423/Network-Engineer-New-Grad",
-        "company_name": "SIG",
-        "title": "Network Engineer",
-        "locations": [
-            "Bala Cynwyd (Philadelphia Area), Pennsylvania"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "zhiyi-zoe",
-        "id": "04afaec1-ac68-4fcf-834b-7b4fb2025d7e",
-        "date_posted": 1720558834,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1720558860,
-        "url": "https://simplify.jobs/p/ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7/Backend-Engineer-Sde-I",
-        "company_name": "Nium",
-        "title": "Backend Engineer - Sde I",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "angelz913",
-        "id": "e5052a13-d6b6-4b6e-9519-5d836451523c",
-        "date_posted": 1720558860,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Konrad Group",
         "id": "aeb7008c-9117-4fa3-a02e-fb36cedb6e35",
@@ -190,266 +76,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "dfe04aeb-098c-41d4-ad55-8dc2d830cad3",
-        "title": "Analyst I \u2013 Merchant Risk Full Stack",
-        "active": false,
-        "date_updated": 1720567489,
-        "date_posted": 1720567489,
-        "url": "https://boards.greenhouse.io/affirm/jobs/6039272003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "2e6e5ccc-79d6-449e-8fed-e87dd8e486d1",
-        "title": "Analyst I \u2013 Merchant Risk Full Stack",
-        "active": false,
-        "date_updated": 1720567488,
-        "date_posted": 1720567488,
-        "url": "https://boards.greenhouse.io/affirm/jobs/6039270003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kodiak Robotics",
-        "id": "ff6aac4e-08e3-401a-ae2d-eb032708a3a9",
-        "title": "Software Engineer - Sensor Calibration",
-        "active": false,
-        "date_updated": 1720567469,
-        "date_posted": 1720567469,
-        "url": "https://jobs.lever.co/kodiak/398799d0-b027-4591-a4d3-1c506f47be97/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "OpenEye",
-        "id": "6021f23c-4fec-462a-b327-277b790b686e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1720567366,
-        "date_posted": 1720567366,
-        "url": "https://boards.greenhouse.io/openeye/jobs/7529157002",
-        "locations": [
-            "Liberty Lake, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenEye",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "9596f162-091d-4bc4-8f5b-f6265ab29507",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "date_updated": 1720567223,
-        "date_posted": 1720567223,
-        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7529282002",
-        "locations": [
-            "London, UK",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Smartsheet",
-        "id": "df24b252-25e7-4bf3-b122-b6f52a6addb0",
-        "title": "Implementation Specialist",
-        "active": false,
-        "date_updated": 1720567138,
-        "date_posted": 1720567138,
-        "url": "https://boards.greenhouse.io/smartsheet/jobs/6100607",
-        "locations": [
-            "Remote in USA",
-            "Palmyra, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smartsheet",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cision",
-        "id": "aa5d941f-e8e7-4ced-bdde-ee989854e6e5",
-        "title": "Research Analyst",
-        "active": false,
-        "date_updated": 1720567071,
-        "date_posted": 1720567071,
-        "url": "https://jobs.lever.co/cision/91be6505-8aef-497e-8d2b-709ab9147867/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cision",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Apptronik",
-        "id": "80f6018d-ed72-4f19-aa24-f6a83e2cd39a",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1720567041,
-        "date_posted": 1720567041,
-        "url": "https://boards.greenhouse.io/apptronik/jobs/5131966004",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apptronik",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cars Commerce",
-        "id": "0345a398-31e2-4f8a-b2fe-9c0b69ed7043",
-        "title": "Content Support Developer",
-        "active": false,
-        "date_updated": 1720566792,
-        "date_posted": 1720566792,
-        "url": "https://boards.greenhouse.io/carsdotcom/jobs/6068229",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cars-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "976e848f-0f84-441a-aed2-6d37e9c814ee",
-        "title": "Software Engineer - Workflow Orchestration",
-        "active": false,
-        "date_updated": 1720566765,
-        "date_posted": 1720566765,
-        "url": "https://jobs.lever.co/zoox/91651029-349d-4ee3-85b1-11c855c40e9c/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Boston Dynamics AI Institute",
-        "id": "c1e3c75b-1992-4325-a4b7-05a4d5c775ec",
-        "title": "Robot Data Collection Engineer",
-        "active": false,
-        "date_updated": 1720566502,
-        "date_posted": 1720566502,
-        "url": "https://jobs.lever.co/bostondynamicsaiinstitute/3d335061-49cf-4983-b11a-b7f9b5d65480/apply",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/BDAI-Institute",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SoundHound AI",
-        "id": "725ec53d-5f17-457d-a8cc-64186367e937",
-        "title": "AI Service Analyst",
-        "active": false,
-        "date_updated": 1720566485,
-        "date_posted": 1720566485,
-        "url": "https://boards.greenhouse.io/soundhoundinc/jobs/7515745002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SoundHound-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Valera Health",
-        "id": "469d74ab-5709-4b7e-8e7e-410ba4b72456",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1720566425,
-        "date_posted": 1720566425,
-        "url": "https://boards.greenhouse.io/valerahealth/jobs/5226956004",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Valera-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Square",
-        "id": "101ccbab-64c0-435b-adaf-8c78414d1234",
-        "title": "Junior Software Engineer - Android - Mobile Developer Experience",
-        "active": false,
-        "date_updated": 1721342199,
-        "date_posted": 1720566369,
-        "url": "https://jobs.smartrecruiters.com/Square/743999999504436",
-        "locations": [
-            "SF",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Square",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "MiQ",
-        "id": "23025a68-cd59-45c3-803e-94079b5dc36e",
-        "title": "Associate Programmatic Trader - Advertising",
-        "active": false,
-        "date_updated": 1720621199,
-        "date_posted": 1720537923,
-        "url": "https://www.wearemiq.com/careers/job?gh_jid=7526861002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MiQ",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arista Networks",
-        "id": "7bd626b5-da38-42cb-be98-4c766c3b5b71",
-        "title": "Software Engineer - Packet Forwarding Engines",
-        "active": false,
-        "date_updated": 1720534642,
-        "date_posted": 1720534642,
-        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999994988255",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Arista-Networks",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16286,7 +15912,7 @@
         "company_name": "FourKites",
         "id": "de6552c1-f7f4-4d1a-bc13-ff388f55378d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751324804,
         "date_posted": 1751324804,
         "url": "https://job-boards.greenhouse.io/fourkites/jobs/7002143",
@@ -16303,7 +15929,7 @@
         "company_name": "Jerry",
         "id": "dd18f20a-903f-491f-ab34-b52216f67e8a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751326103,
         "date_posted": 1751326103,
         "url": "https://jobs.ashbyhq.com/Jerry/aafa3b07-5705-4128-b344-14f0389d0130/application",
@@ -16338,7 +15964,7 @@
         "company_name": "Jerry",
         "id": "1be7d2bd-653d-44c2-bd70-152f9e16cef2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751326105,
         "date_posted": 1751326105,
         "url": "https://jobs.ashbyhq.com/Jerry/2f351dfa-4c5c-437c-98ad-471c1444bd77/application",
@@ -16660,6 +16286,58 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "af1ffb61-76d1-469e-99bb-c8bc1d2677b3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751624071,
+        "date_posted": 1751624071,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Surrey/Software-Engineer-I_R96548",
+        "locations": [
+            "Surrey, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "d917bfb2-84eb-4958-bdc2-7d0979453c59",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751648266,
+        "date_posted": 1751648266,
+        "url": "https://jobs.ashbyhq.com/Jerry/f1e9dc65-6977-42ec-a5aa-03f877c6824e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "e9c4d599-d468-4bef-8726-acab5b9e47cf",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751648094,
+        "date_posted": 1751648094,
+        "url": "https://jobs.ashbyhq.com/Jerry/4e481c63-5a45-4981-8e4e-11f48a422748/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
