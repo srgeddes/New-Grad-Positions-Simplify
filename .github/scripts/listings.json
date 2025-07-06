@@ -1,118 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "aeb7008c-9117-4fa3-a02e-fb36cedb6e35",
-        "title": "IOS Developer",
-        "active": false,
-        "date_updated": 1720625082,
-        "date_posted": 1720625082,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6046951003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Konrad Group",
-        "id": "38275aad-b821-498b-90dc-d45a07ea288d",
-        "title": "Android Developer",
-        "active": false,
-        "date_updated": 1720625076,
-        "date_posted": 1720625076,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6046939003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Konrad-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NewGlobe",
-        "id": "19e266a8-0d81-4444-8f65-195854853f8d",
-        "title": "Data Analyst - Measurement and Evaluation - Rme",
-        "active": false,
-        "date_updated": 1720624038,
-        "date_posted": 1720624038,
-        "url": "https://boards.greenhouse.io/newglobesandbox/jobs/5224527004",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/New-Globe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verition Fund Management",
-        "id": "0acafe6e-8ce3-4df7-b557-45370806bf23",
-        "title": "Quant Data Analyst",
-        "active": false,
-        "date_updated": 1720623939,
-        "date_posted": 1720623939,
-        "url": "https://www.verition.com/open-positions?gh_jid=4427343007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/VeritionFund",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "MongoDB",
-        "id": "8b521a34-8840-46b7-befd-ad17ac312afa",
-        "title": "Software Engineer - Cloud Insights & Telemetry",
-        "active": false,
-        "date_updated": 1720621051,
-        "date_posted": 1720595449,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=6098164",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1724738319,
-        "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
-        "company_name": "ElectronX",
-        "title": "New Grad: Software Engineer",
-        "locations": [
-            "New York, NY",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "siddarthamuppalla",
-        "id": "61f32c53-94f7-4299-8f33-c767f5273b77",
-        "date_posted": 1720644826,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1721163658,
-        "url": "https://simplify.jobs/p/7a127c79-30d9-4b06-b17a-b05f4f90476c/Backend-Engineer",
-        "company_name": "Spotify",
-        "title": "Backend Engineer, Personalization",
-        "locations": [
-            "New York"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "angelz913",
-        "id": "0a77f9b6-05f2-488f-ab85-c80c98a2e7c9",
-        "date_posted": 1720658501,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1724783490,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer",
         "company_name": "Microsoft",
@@ -16338,6 +16225,24 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "9f6380b7-4668-49fb-9b83-4e51e0815a76",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1751696380,
+        "date_posted": 1751696380,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
     }
